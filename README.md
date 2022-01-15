@@ -1,5 +1,9 @@
-<center>### Hi there 👋, I'm **Camila Pozas**
-#### *theory is always good* </center>
+<style>
+p {text-align: center;}
+</style>
+
+<p>### Hi there 👋, I'm **Camila Pozas**
+#### *theory is always good* </p>
 
 Skills: Python, UX
 
