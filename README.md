@@ -1,5 +1,5 @@
-<h1 align = "center"> ### Hi there 👋, I'm **Camila Pozas** </h1>
-<h2 align = "center"> #### *theory is always good* </h2>
+<h1 align = "center"> Hi there 👋, I'm Camila Pozas</h1>
+<h3 align = "center"> theory is always good </h3>
 
 **Skills:** *Python, UX*
 
