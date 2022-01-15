@@ -1,13 +1,9 @@
-<style>
-p {text-align: center;}
-</style>
+<h1 align = "center"> ### Hi there 👋, I'm **Camila Pozas** </h1>
+<h2 align = "center"> #### *theory is always good* </h2>
 
-<p>### Hi there 👋, I'm **Camila Pozas**
-#### *theory is always good* </p>
+**Skills:** *Python, UX*
 
-Skills: Python, UX
-
-- 🔭 I’m currently working on [Buk](https://www.buk.cl/), [UAI](https://www.uai.cl/) 
+- 🔭 I’m currently working on [Buk](https://www.buk.cl/) [Tech Analyst], [UAI](https://www.uai.cl/) [Professor]
 - 🌱 I’m currently learning Machine Learning, UX, JS. 
 
 
