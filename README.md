@@ -1,13 +1,20 @@
 <h1 align = "center"> Hi there 👋, I'm Camila Pozas</h1>
 <h3 align = "center"> theory is always good </h3>
 
+<a href="https://api.daily.dev/get?r=camipozas" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/camipozas/camipozas/blob/main/devcard.svg"
+    />
+  </a>
+
 ![Profile views](https://gpvc.arturio.dev/camipozas)  
 **Skills:** *Python, UX*
 
 - 🔭 I’m currently working on [Buk](https://www.buk.cl/) [Tech Analyst], [UAI](https://www.uai.cl/) [Professor]
 - 🌱 I’m currently learning Machine Learning, UX, JS. 
 - 📤 How to reach me? [Camila Pozas | LinkedIn](https://www.linkedin.com/in/camila-pozas-garcia/) or [cpozasg1103@gmail.com](cpozasg1103@gmail.com)
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/camipozas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/camila-pozas-garcia//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/camipozas_//) 
 
