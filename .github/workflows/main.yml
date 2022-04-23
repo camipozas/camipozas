@@ -6,8 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
-    - timezone: 'America/Santiago'
+    - cron: "0 4 * * *"
 
 jobs:
   devcard:
