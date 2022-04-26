@@ -12,7 +12,7 @@
 ![Profile views](https://gpvc.arturio.dev/camipozas)  
 **Skills:** *Python, UX*
 
-- 🔭 I’m currently working on [Buk](https://www.buk.cl/) [Tech Analyst], [UAI](https://www.uai.cl/) [Professor]
+- 🔭 I’m currently working on [Buk](https://www.buk.cl/) [TechOps], [UAI](https://www.uai.cl/) [Professor]
 - 🌱 I’m currently learning Machine Learning, UX, JS. 
 - 📤 How to reach me? [Camila Pozas | LinkedIn](https://www.linkedin.com/in/camila-pozas-garcia/) or [cpozasg1103@gmail.com](cpozasg1103@gmail.com)
 
