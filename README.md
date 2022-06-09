@@ -10,6 +10,9 @@
   </a>
 
 ![Profile views](https://gpvc.arturio.dev/camipozas)  
+![status](https://badge.stateful.com/camipozas/status.svg)
+![status](https://badge.stateful.com/camipozas/dnd.svg)
+
 **Skills:** *Python, UX*
 
 - 🔭 I’m currently working on [Buk](https://www.buk.cl/) [TechOps], [UAI](https://www.uai.cl/) [Professor]
