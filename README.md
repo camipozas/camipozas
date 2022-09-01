@@ -13,7 +13,7 @@
 ![status](https://badge.stateful.com/camipozas/status.svg)
 ![status](https://badge.stateful.com/camipozas/dnd.svg)
 
-**Skills:** *Python, UX*
+**Skills:** *Python, RPA, JS*
 
 - 🔭 I’m currently working on [Buk](https://www.buk.cl/) [TechOps], [UAI](https://www.uai.cl/) [Professor]
 - 🌱 I’m currently learning Machine Learning, UX, JS. 
