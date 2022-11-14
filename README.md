@@ -15,7 +15,7 @@
 
 **Skills:** *Python, JS*
 
-- 🔭 I’m currently working on [MACH](https://www.mach.cl/) [Backend Software Engineer]
+- 🔭 I’m currently working on [MACH](https://www.somosmach.com/) [Backend Software Engineer]
 - 🌱 I’m currently learning TypeScript. 
 - 📤 How to reach me? [Camila Pozas | LinkedIn](https://www.linkedin.com/in/camila-pozas-garcia/) or [cpozasg1103@gmail.com](cpozasg1103@gmail.com)
 - 📕 Portfolio: https://www.cam1pozas.xyz/
