@@ -13,7 +13,7 @@
 ![status](https://badge.stateful.com/camipozas/status.svg)
 ![status](https://badge.stateful.com/camipozas/dnd.svg)
 
-**Skills:** *Python, JS*
+**Skills:** *Python, JS, AWS*
 
 - 🔭 I’m currently working on [MACH](https://www.somosmach.com/) [Backend Software Engineer]
 - 🌱 I’m currently learning TypeScript. 
