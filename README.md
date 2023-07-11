@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [MACH](https://www.somosmach.com/) [Backend Software Engineer]
 - 🌱 I’m currently learning TypeScript. 
-- 📤 How to reach me? [Camila Pozas | LinkedIn](https://www.linkedin.com/in/camila-pozas-garcia/) or [cpozasg1103@gmail.com](cpozasg1103@gmail.com)
+- 📤 How to reach me? [Camila Pozas | LinkedIn](https://www.linkedin.com/in/camila-pozas-garcia/) or [camila@camipg.com](camila@camipg.com)
 - 📕 Portfolio: https://www.cam1pozas.xyz/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/camipozas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/camila-pozas-garcia//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/camipozas_//) 
