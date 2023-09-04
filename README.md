@@ -9,7 +9,7 @@
     />
   </a>
 
-![Profile views](https://gpvc.arturio.dev/camipozas)  
+![status](https://komarev.com/ghpvc/?username=camipozas&color=blue)
 ![status](https://badge.stateful.com/camipozas/status.svg)
 ![status](https://badge.stateful.com/camipozas/dnd.svg)
 
