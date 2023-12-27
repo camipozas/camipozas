@@ -62,12 +62,7 @@ src="https://img.shields.io/github/followers/camipozas?logo=github&style=for-the
 
 <b>Top Repositories</b>
 
-<div style="width: 100%; display: flex; justify-content: space-between;">
-  <a href="https://github.com/camipozas/cordyceps" style="width: 45%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=camipozas&repo=cordyceps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/camipozas/economic-indicators-cl" style="width: 45%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=camipozas&repo=economic-indicators-cl&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+<div width="100%" align="center"><a href="https://github.com/camipozas/cordyceps" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=camipozas&repo=cordyceps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/camipozas/economic-indicators-cl" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=camipozas&repo=economic-indicators-cl&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
