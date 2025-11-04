@@ -1,21 +1,19 @@
 Hi 👋 My name is Camila Pozas
 =============================
 
-Software Engineer
+Software Engineer / Product Engineer
 -----------------
 
 * 🌍  I'm based in Santiago, Chile
 * 🖥️  See my portfolio at [camipg.com](http://camipg.com)
-* ✉️  You can contact me at [camila@camipg.com](mailto:camila@camipg.com)
-* 🚀  I'm currently working on [MACH](http://https://www.somosmach.com/)
+* ✉️  You can contact me at [cpozasg1103@gmail.com](mailto:cpozasg1103@gmail.com)
+* 🚀  I'm currently working on [Ria Money Transfer](https://www.riamoneytransfer.com/es-cl/)
+* 
 * ⚡  Theory is always good
 
 <a href="https://www.github.com/camipozas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/camipozas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
-
-![status](https://badge.stateful.com/camipozas/status.svg)
-![status](https://badge.stateful.com/camipozas/dnd.svg)
 
 ### Skills
 
