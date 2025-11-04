@@ -8,7 +8,6 @@ Software Engineer / Product Engineer
 * 🖥️  See my portfolio at [camipg.com](http://camipg.com)
 * ✉️  You can contact me at [cpozasg1103@gmail.com](mailto:cpozasg1103@gmail.com)
 * 🚀  I'm currently working on [Ria Money Transfer](https://www.riamoneytransfer.com/es-cl/)
-* 
 * ⚡  Theory is always good
 
 <a href="https://www.github.com/camipozas" target="_blank" rel="noreferrer"><img
